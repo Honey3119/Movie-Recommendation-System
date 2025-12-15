@@ -226,12 +226,6 @@ Acknowledgments
 - Scikit-learn Documentation for ML implementations
 
 
-Contact
-For questions about this project, please contact through:
-- GitHub Issues
-- Course Piazza Forum
-
-
 If you found this project helpful, please star the repository!**
 
 Last Updated: December 9, 2025
